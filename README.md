@@ -5,7 +5,9 @@ You can also find the tensorflow implementation of IcGan here .
 Application : Image Editing 
 
 1 . RECONSTRUCTION OF IMAGES 
+
       ORBBBBBEEGMMMMPRSSWH
+      
       REAALLRYYRAAOUAEMTAA
 
 ![image](/IMAGE.png)
