@@ -10,4 +10,10 @@ Application : Image Editing
 
 2. SWAPPING OF ATTRIBUTES 
 
+![image](/IMAGE1.png)
+
+3. INTERPOLATION OF IMAGES
+
+![image](/IMAGE2.png)
+
 
