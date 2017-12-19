@@ -7,3 +7,7 @@ Application : Image Editing
 1 . RECONSTRUCTION OF IMAGES 
 
 ![image](/IMAGE.png)
+
+2. SWAPPING OF ATTRIBUTES 
+
+
