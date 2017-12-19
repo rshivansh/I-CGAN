@@ -6,8 +6,4 @@ Application : Image Editing
 
 1 . RECONSTRUCTION OF IMAGES 
 
-      ORBBBBBEEGMMMMPRSSWH
-      
-      REAALLRYYRAAOUAEMTAA
-
 ![image](/IMAGE.png)
