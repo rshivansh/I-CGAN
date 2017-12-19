@@ -3,4 +3,4 @@ Torch implementation of Invertible -Conditional Generative Adversarial Networks 
 You can also find the tensorflow implementation of IcGan here .
 Application : Image Editing 
 
-![image](/VQA.png)
+![image](/IMAGE.png)
