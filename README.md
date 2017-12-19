@@ -89,6 +89,7 @@ The parameters for generating results are in [`cfg/generateConfig.lua`](cfg/gene
 ```bash
 decNet=celeba_24_G.t7 encZnet=celeba_encZ_7.t7 encYnet=celeba_encY_5.t7 loadPath=[PATH_TO_REAL_IMAGES] th generation/reconstructWithVariations.lua
 ```
+In my case loadPath = celebA/img_align_celeba/
 ### 2.2 Swap attributes
 
 Swap the attribute information between two pairs of faces.
