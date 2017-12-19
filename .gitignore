@@ -1,0 +1,17 @@
+# Folders that contain data
+mnist
+celebA
+lfw
+checkpoints
+cache
+untracked
+# Images
+images/celebA
+images/mnist
+gif
+# Large files
+*.dmp
+# Eclipse files
+.project
+.settings
+.buildpath
