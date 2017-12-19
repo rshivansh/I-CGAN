@@ -9,7 +9,7 @@ The architecture of the network is :
 
 We will be training the model on Celeb A dataset .
 
-You can also find the tensorflow implementation of IcGan here .
+You can also find the tensorflow implementation of IcGan here . Please refer to ICGan-tensorflow-master.zip file for its tensorflow implementation .
 
 Application : Image Editing 
 
